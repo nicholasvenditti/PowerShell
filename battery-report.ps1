@@ -1,1 +1,1 @@
-powercfg /batteryreport /output "C:\Users\nicho\battery-report.html"
+powercfg /batteryreport /output "C:\Users\$Env:USERNAME\battery-report.html"
